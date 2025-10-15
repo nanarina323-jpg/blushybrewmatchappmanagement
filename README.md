@@ -17,7 +17,7 @@ A Laravel-based drink management web app that allows users to create, edit, dele
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/blushybrewmatch.git
+git clone [https://github.com/yourusername/blushybrewmatch.git](https://github.com/nanarina323-jpg/blushybrewmatchappmanagement.git)
 cd blushybrewmatch
 
 2️⃣ Install Dependencies
